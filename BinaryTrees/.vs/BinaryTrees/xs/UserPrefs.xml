@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{47D69F1C-B668-4BB1-923E-60351878C64D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryTree.cs">
+    <Files>
+      <File FileName="BinaryTree.cs" Line="101" Column="10" />
+      <File FileName="Program.cs" />
+      <File FileName="BinaryTreeInTask2_should.cs" />
+      <File FileName="ShuffleExtension.cs" />
+      <File FileName="test.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryTrees" expanded="True">
+            <Node name="BinaryTrees" expanded="True">
+              <Node name="BinaryTree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BinaryTrees" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BinaryTrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aleksejkaspsickij/Downloads/BinaryTrees/BinaryTreeInTask1_should.cs" relfile="BinaryTreeInTask1_should.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
